@@ -5,4 +5,4 @@ The inspiration comes from the Persona 3 Reload code, which is entirely generate
 
 p3time 是python版本 p3timec是C++版本
 
-p3time is the Python version and p3timec is the C++ version
+p3time is the Python version and p3timec is the C++ version.
