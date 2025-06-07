@@ -19,6 +19,8 @@ p3timec-32-1 是32位版本 兼容XP 在Windows Vista 和 Windows 7上有Bug 具
 
 p3timec-32-2 目前没有Bug(未测出),修复p3timec-32-1闪烁Bug 在Windows XP RTM SP3 Server 2003 R2上都运行良好
 
+p3timec-32-moni-1带有指针时钟
+
 
 
 P3Time is the Python version and p3Timec is the C++version
@@ -28,4 +30,6 @@ P3Timec-32-1 is a 32-bit version compatible with XP. There is a bug on Windows V
 
 
 P3Timec-32-2 currently has no bugs (not detected), fixing the p3Timec-32-1 flashing bug runs well on Windows XP RTM SP3 Server 2003 R2.
+
+P3Timec-32-moni-1 with pointer clock
 
