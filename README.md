@@ -14,13 +14,14 @@ Just use the C++version. The Python version will no longer be updated
 p3time 是python版本 p3timec是C++版本 
 
 
-p3timec-32-1 是32位版本 兼容XP 在Windows Vista 和 Windows 7上有Bug 具体表现为 非Aero主题 时钟更新窗口会闪烁
+p3timec-32-1兼容XP 在Vista 7上有Bug 具体表现为 非Aero主题 时钟更新窗口会闪烁
 
 
-p3timec-32-2 目前没有Bug(未测出),修复p3timec-32-1闪烁Bug 在Windows XP RTM SP3 Server 2003 R2上都运行良好
+p3timec-32-2 目前没有Bug,修复闪烁Bug 在Windows XP RTM SP3 Server 2003 R2上都运行良好
 
 p3timec-32-moni-1带有指针时钟
 
+p3timec-32-moni-only-1只有指针时钟
 
 
 P3Time is the Python version and p3Timec is the C++version
@@ -33,3 +34,4 @@ P3Timec-32-2 currently has no bugs (not detected), fixing the p3Timec-32-1 flash
 
 P3Timec-32-moni-1 with pointer clock
 
+p3timec-32-moni-only-1 only pointer clock
